@@ -1,6 +1,5 @@
 aid: changelog
-url: 
-  https://raw.githubusercontent.com/api-evangelist/changelog/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/changelog/refs/heads/main/apis.yml
 name: Changelog
 description: >-
   Changelog is a media company and podcast network for developers covering open source
@@ -10,13 +9,12 @@ description: >-
   forward. Changelog also publishes a weekly developer news newsletter and operates
   an open source platform (changelog.com) built with Elixir and Phoenix.
 type: Index
-image: 
-  https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Podcasts
   - Developer Community
-  - Open Source
   - Media
+  - Open Source
+  - Podcasts
 access: 3rd-Party
 apis:
   - aid: changelog:podcast-rss
@@ -30,9 +28,9 @@ apis:
     humanURL: https://changelog.com/podcast
     baseURL: https://changelog.com
     tags:
-      - RSS
-      - Podcast
       - Open Source
+      - Podcast
+      - RSS
       - Software Development
     properties:
       - type: RSSFeed
@@ -49,10 +47,10 @@ apis:
     humanURL: https://changelog.com/master
     baseURL: https://changelog.com
     tags:
-      - RSS
-      - Podcast
-      - Master Feed
       - Aggregated
+      - Master Feed
+      - Podcast
+      - RSS
     properties:
       - type: RSSFeed
         url: https://changelog.com/master/feed
@@ -68,10 +66,10 @@ apis:
     humanURL: https://changelog.com/news
     baseURL: https://changelog.com
     tags:
-      - RSS
-      - News
       - Developer News
+      - News
       - Newsletter
+      - RSS
     properties:
       - type: RSSFeed
         url: https://changelog.com/news/feed
@@ -88,10 +86,10 @@ apis:
     humanURL: https://github.com/thechangelog/changelog.com
     baseURL: https://github.com/thechangelog
     tags:
-      - Open Source
-      - Elixir
-      - Phoenix
       - CMS
+      - Elixir
+      - Open Source
+      - Phoenix
     properties:
       - type: Documentation
         url: https://github.com/thechangelog/changelog.com
@@ -131,8 +129,7 @@ common:
   - url: https://github.com/thechangelog/changelog.com
     name: Changelog Open Source Platform
     type: Repository
-  - url: 
-      https://podcasts.apple.com/us/podcast/the-changelog-software-development-open-source/id341623264
+  - url: https://podcasts.apple.com/us/podcast/the-changelog-software-development-open-source/id341623264
     name: The Changelog on Apple Podcasts
     type: Podcast
   - url: https://open.spotify.com/show/5bBki72YeKSLUqyD94qsuJ
