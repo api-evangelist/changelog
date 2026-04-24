@@ -1,6 +1,7 @@
 aid: changelog
 url: https://raw.githubusercontent.com/api-evangelist/changelog/refs/heads/main/apis.yml
 name: Changelog
+x-type: company
 description: >-
   Changelog is a media company and podcast network for developers covering open source
   and software development. Founded by Adam Stacoviak and Jerod Santo, Changelog produces
@@ -138,8 +139,55 @@ common:
   - url: https://x.com/changelog
     name: Changelog on X
     type: X
+  - name: Features
+    type: Features
+    data:
+      - name: Developer Podcasts
+      - name: Open Source Focus
+      - name: Weekly Newsletter
+      - name: Podcast Network
+      - name: RSS Feeds
+      - name: Master Feed
+      - name: Developer Community
+      - name: Episode Notes
+      - name: Guest Interviews
+      - name: Live Events
+      - name: Open Source Platform
+      - name: Elixir and Phoenix
+      - name: Sponsorships
+  - name: UseCases
+    type: UseCases
+    data:
+      - name: Developer Education
+      - name: Open Source Promotion
+      - name: Podcast Distribution
+      - name: Newsletter Aggregation
+      - name: Developer News Consumption
+      - name: Conference and Event Coverage
+      - name: Sponsor Content Distribution
+  - name: Shows
+    type: Shows
+    data:
+      - name: The Changelog
+      - name: Changelog News
+      - name: Go Time
+      - name: JS Party
+      - name: Practical AI
+      - name: Ship It!
+      - name: Brain Science
+  - name: Integrations
+    type: Integrations
+    data:
+      - name: Apple Podcasts
+      - name: Spotify
+      - name: Overcast
+      - name: Pocket Casts
+      - name: RSS
+      - name: GitHub
+      - name: YouTube
+      - name: Fireside
 created: '2026-03-24'
-modified: '2026-03-24'
+modified: '2026-04-23'
 specificationVersion: '0.19'
 maintainers:
   - FN: Kin Lane

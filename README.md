@@ -1,6 +1,17 @@
-# Changelog
+# Changelog (changelog)
 
 Changelog (https://changelog.com/) is a media company and podcast network for developers covering open source and software development. Founded by Adam Stacoviak and Jerod Santo, Changelog produces world-class developer podcasts including The Changelog, which features deep technical interviews and conversations with the people and teams driving open source software forward. Changelog also publishes a weekly developer news newsletter and operates an open source platform built with Elixir and Phoenix. The full platform source code, episode show notes, and transcripts are publicly available on GitHub.
+
+## Scope
+
+- **Type:** Index
+- **Position:** Consumer
+- **Access:** 3rd-Party
+- **x-type:** company
+
+## Tags
+
+- Developer Community, Media, Open Source, Podcasts
 
 - [Website](https://changelog.com/)
 - [The Changelog Podcast](https://changelog.com/podcast)
@@ -57,3 +68,25 @@ Changelog offers advertising and sponsorship opportunities for brands wanting to
 ## Legal
 
 - [Privacy Policy](https://changelog.com/privacy)
+
+## Features
+
+Developer Podcasts, Open Source Focus, Weekly Newsletter, Podcast Network, RSS Feeds, Master Feed, Developer Community, Episode Notes, Guest Interviews, Live Events, Open Source Platform, Elixir and Phoenix, Sponsorships
+
+## Use Cases
+
+Developer Education, Open Source Promotion, Podcast Distribution, Newsletter Aggregation, Developer News Consumption, Conference and Event Coverage, Sponsor Content Distribution
+
+## Shows
+
+The Changelog, Changelog News, Go Time, JS Party, Practical AI, Ship It!, Brain Science
+
+## Integrations
+
+Apple Podcasts, Spotify, Overcast, Pocket Casts, RSS, GitHub, YouTube, Fireside
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
