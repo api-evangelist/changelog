@@ -1,0 +1,25 @@
+{
+  "repo": "changelog",
+  "feeds": [
+    {
+      "source": "https://changelog.com/podcast/feed",
+      "feed_url": "https://changelog.com/podcast/feed",
+      "saved": 10,
+      "title": "The Changelog: Software Development, Open Source"
+    },
+    {
+      "source": "https://changelog.com/master/feed",
+      "feed_url": "https://changelog.com/master/feed",
+      "saved": 10,
+      "title": "Changelog Master Feed"
+    },
+    {
+      "source": "https://changelog.com/news/feed",
+      "feed_url": "https://changelog.com/news/feed",
+      "saved": 10,
+      "title": "Changelog News"
+    }
+  ],
+  "post_count": 30,
+  "fetched": "2026-05-03T23:25:12Z"
+}
