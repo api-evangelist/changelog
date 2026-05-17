@@ -1,7 +1,7 @@
 aid: changelog
 url: https://raw.githubusercontent.com/api-evangelist/changelog/refs/heads/main/apis.yml
 name: Changelog
-x-type: company
+kind: company
 description: >-
   Changelog is a media company and podcast network for developers covering open source
   and software development. Founded by Adam Stacoviak and Jerod Santo, Changelog produces
