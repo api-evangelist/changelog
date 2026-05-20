@@ -97,6 +97,8 @@ apis:
       - type: Repository
         url: https://github.com/thechangelog/changelog.com
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/changelog
   - url: https://changelog.com/
     name: Changelog Website
     type: Website
