@@ -4,22 +4,22 @@
     {
       "source": "https://changelog.com/podcast/feed",
       "feed_url": "https://changelog.com/podcast/feed",
-      "saved": 50,
+      "saved": 1,
       "title": "The Changelog: Software Development, Open Source"
     },
     {
       "source": "https://changelog.com/master/feed",
       "feed_url": "https://changelog.com/master/feed",
-      "saved": 50,
+      "saved": 1,
       "title": "Changelog Master Feed"
     },
     {
       "source": "https://changelog.com/news/feed",
       "feed_url": "https://changelog.com/news/feed",
-      "saved": 50,
+      "saved": 0,
       "title": "Changelog News"
     }
   ],
-  "post_count": 180,
-  "fetched": "2026-05-17T20:20:35Z"
+  "post_count": 182,
+  "fetched": "2026-06-01T23:00:37Z"
 }
