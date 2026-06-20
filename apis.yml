@@ -10,7 +10,7 @@ description: >-
   forward. Changelog also publishes a weekly developer news newsletter and operates
   an open source platform (changelog.com) built with Elixir and Phoenix.
 type: Index
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Developer Community
   - Media
