@@ -10,8 +10,9 @@
     {
       "source": "https://changelog.com/master/feed",
       "feed_url": "https://changelog.com/master/feed",
-      "saved": 1,
-      "title": "Changelog Master Feed"
+      "saved": 0,
+      "title": "Changelog Master Feed",
+      "note": "Feed exceeds 10MB fetch limit; new episodes covered via per-show feeds (podcast/news/friends)."
     },
     {
       "source": "https://changelog.com/news/feed",
@@ -20,6 +21,6 @@
       "title": "Changelog News"
     }
   ],
-  "post_count": 182,
-  "fetched": "2026-06-01T23:00:37Z"
+  "post_count": 183,
+  "fetched": "2026-06-21T17:00:00Z"
 }
