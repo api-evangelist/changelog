@@ -97,6 +97,8 @@ apis:
       - type: Repository
         url: https://github.com/thechangelog/changelog.com
 common:
+  - type: DomainSecurity
+    url: security/changelog-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/changelog
   - url: https://changelog.com/
