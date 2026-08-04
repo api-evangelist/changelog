@@ -4,13 +4,13 @@
     {
       "source": "https://changelog.com/podcast/feed",
       "feed_url": "https://changelog.com/podcast/feed",
-      "saved": 1,
+      "saved": 0,
       "title": "The Changelog: Software Development, Open Source"
     },
     {
       "source": "https://changelog.com/master/feed",
       "feed_url": "https://changelog.com/master/feed",
-      "saved": 1,
+      "saved": 0,
       "title": "Changelog Master Feed",
       "note": "Feed exceeds 10MB fetch limit; new episodes covered via per-show feeds (podcast/news/friends)."
     },
@@ -21,6 +21,6 @@
       "title": "Changelog News"
     }
   ],
-  "post_count": 185,
-  "fetched": "2026-07-11T11:43:46Z"
+  "post_count": 187,
+  "fetched": "2026-08-01T15:38:58Z"
 }
