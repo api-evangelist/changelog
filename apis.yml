@@ -109,6 +109,10 @@ apis:
       - type: Repository
         url: https://github.com/thechangelog/changelog.com
 common:
+  - type: IssueTracker
+    url: https://github.com/thechangelog/changelog.com/issues
+  - type: ContributionGuide
+    url: https://github.com/thechangelog/changelog.com/blob/master/CONTRIBUTING.md
   - type: DomainSecurity
     url: security/changelog-domain-security.yml
   - type: LinkedIn
