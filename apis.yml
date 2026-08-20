@@ -26,6 +26,11 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/changelog.
 tags:
   - Developer Community
   - Media
+  - Open-Source
+  - Podcasts
+tags_raw:
+  - Developer Community
+  - Media
   - Open Source
   - Podcasts
 access: 3rd-Party
@@ -41,6 +46,11 @@ apis:
     humanURL: https://changelog.com/podcast
     baseURL: https://changelog.com
     tags:
+      - Open-Source
+      - Podcast
+      - RSS
+      - Software Development
+    tags_raw:
       - Open Source
       - Podcast
       - RSS
@@ -99,6 +109,11 @@ apis:
     humanURL: https://github.com/thechangelog/changelog.com
     baseURL: https://github.com/thechangelog
     tags:
+      - CMS
+      - Elixir
+      - Open-Source
+      - Phoenix
+    tags_raw:
       - CMS
       - Elixir
       - Open Source
