@@ -10,6 +10,17 @@ description: >-
   forward. Changelog also publishes a weekly developer news newsletter and operates
   an open source platform (changelog.com) built with Elixir and Phoenix.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: unknown
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - repository-unlicensed
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
