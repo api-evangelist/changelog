@@ -5,22 +5,31 @@
       "source": "https://changelog.com/podcast/feed",
       "feed_url": "https://changelog.com/podcast/feed",
       "saved": 1,
-      "title": "The Changelog: Software Development, Open Source"
+      "title": "The Changelog: Software Development, Open Source",
+      "nature": "vendor-blog",
+      "nature_basis": "path_blog"
     },
     {
       "source": "https://changelog.com/master/feed",
       "feed_url": "https://changelog.com/master/feed",
       "saved": 1,
       "title": "Changelog Master Feed",
-      "note": "Feed exceeds 10MB fetch limit; new episodes covered via per-show feeds (podcast/news/friends)."
+      "note": "Feed exceeds 10MB fetch limit; new episodes covered via per-show feeds (podcast/news/friends).",
+      "nature": "vendor-blog",
+      "nature_basis": "path_blog"
     },
     {
       "source": "https://changelog.com/news/feed",
       "feed_url": "https://changelog.com/news/feed",
       "saved": 0,
-      "title": "Changelog News"
+      "title": "Changelog News",
+      "nature": "vendor-blog",
+      "nature_basis": "path_blog"
     }
   ],
   "post_count": 189,
-  "fetched": "2026-08-30T22:05:13Z"
+  "fetched": "2026-08-30T22:05:13Z",
+  "feed_nature": "vendor-blog",
+  "feed_nature_basis": "path_blog",
+  "feed_nature_note": "Whether these posts are the vendor publishing or its support community, decided on the URL path grammar of the saved posts -- not the hostname, which carries both on Khoros, and not author diversity, which flags large vendor blogs as forums. 'undetermined' means undetermined."
 }
