@@ -4,7 +4,7 @@
     {
       "source": "https://changelog.com/podcast/feed",
       "feed_url": "https://changelog.com/podcast/feed",
-      "saved": 1,
+      "saved": 0,
       "title": "The Changelog: Software Development, Open Source",
       "nature": "vendor-blog",
       "nature_basis": "path_blog"
@@ -12,7 +12,7 @@
     {
       "source": "https://changelog.com/master/feed",
       "feed_url": "https://changelog.com/master/feed",
-      "saved": 1,
+      "saved": 0,
       "title": "Changelog Master Feed",
       "note": "Feed exceeds 10MB fetch limit; new episodes covered via per-show feeds (podcast/news/friends).",
       "nature": "vendor-blog",
@@ -28,7 +28,7 @@
     }
   ],
   "post_count": 191,
-  "fetched": "2026-09-06T18:58:10Z",
+  "fetched": "2026-09-13T12:41:53Z",
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
   "feed_nature_note": "Whether these posts are the vendor publishing or its support community, decided on the URL path grammar of the saved posts -- not the hostname, which carries both on Khoros, and not author diversity, which flags large vendor blogs as forums. 'undetermined' means undetermined."
