@@ -58,7 +58,7 @@ apis:
     baseURL: https://changelog.com
     tags:
       - Open-Source
-      - Podcast
+      - Podcasts
       - RSS
       - Software Development
     tags_raw:
@@ -83,6 +83,11 @@ apis:
     tags:
       - Aggregated
       - Master Feed
+      - Podcasts
+      - RSS
+    tags_raw:
+      - Aggregated
+      - Master Feed
       - Podcast
       - RSS
     properties:
@@ -100,6 +105,11 @@ apis:
     humanURL: https://changelog.com/news
     baseURL: https://changelog.com
     tags:
+      - Developer News
+      - News
+      - Newsletters
+      - RSS
+    tags_raw:
       - Developer News
       - News
       - Newsletter
