@@ -12,14 +12,17 @@ description: >-
 type: Index
 deliveryModel:
   model: unknown
+  license_evidence:
+    not_product:
+    - thechangelog/changelog.com
   open_source: unknown
   commercial: false
   callable_host: false
   label: Delivery model not determined — needs a product licence on record
   confidence: low
   source:
-  - repository-unlicensed
-  generated: '2026-08-28'
+  - repository-not-product
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: freemium
@@ -37,13 +40,14 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/changelog.
 tags:
   - Developer Community
   - Media
-  - Open-Source
+  - Open Source
   - Podcasts
 tags_raw:
   - Developer Community
   - Media
   - Open Source
   - Podcasts
+  - Open-Source
 access: 3rd-Party
 apis:
   - aid: changelog:podcast-rss
@@ -55,9 +59,8 @@ apis:
       projects behind the code. The feed returns standard podcast RSS/Atom XML with
       episode metadata including titles, descriptions, audio URLs, and publish dates.
     humanURL: https://changelog.com/podcast
-    baseURL: https://changelog.com
     tags:
-      - Open-Source
+      - Open Source
       - Podcasts
       - RSS
       - Software Development
@@ -66,6 +69,7 @@ apis:
       - Podcast
       - RSS
       - Software Development
+      - Open-Source
     properties:
       - type: RSSFeed
         url: https://changelog.com/podcast/feed
@@ -79,7 +83,6 @@ apis:
       content produced by Changelog Media, including The Changelog podcast and any
       other active shows in the network.
     humanURL: https://changelog.com/master
-    baseURL: https://changelog.com
     tags:
       - Aggregated
       - Master Feed
@@ -103,7 +106,6 @@ apis:
       covering what is happening in software development, open source, and the
       broader developer ecosystem.
     humanURL: https://changelog.com/news
-    baseURL: https://changelog.com
     tags:
       - Developer News
       - News
@@ -132,13 +134,14 @@ apis:
     tags:
       - CMS
       - Elixir
-      - Open-Source
+      - Open Source
       - Phoenix
     tags_raw:
       - CMS
       - Elixir
       - Open Source
       - Phoenix
+      - Open-Source
     properties:
       - type: Documentation
         url: https://github.com/thechangelog/changelog.com
