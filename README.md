@@ -1,4 +1,4 @@
-# Changelog (changelog)
+# Changelog
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,93 +64,105 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Changelog (https://changelog.com/) is a media company and podcast network for developers covering open source and software development. Founded by Adam Stacoviak and Jerod Santo, Changelog produces world-class developer podcasts including The Changelog, which features deep technical interviews and conversations with the people and teams driving open source software forward. Changelog also publishes a weekly developer news newsletter and operates an open source platform built with Elixir and Phoenix. The full platform source code, episode show notes, and transcripts are publicly available on GitHub.
+Changelog is a media company and podcast network for developers covering open source and software development. Founded by Adam Stacoviak and Jerod Santo, Changelog produces world-class developer podcasts including The Changelog, which features deep technical interviews and conversations with the people and teams driving open source software forward. Changelog also publishes a weekly developer news newsletter and operates an open source platform (changelog.com) built with Elixir and Phoenix.
 
-## Scope
+**Areas:** Developer Community · Media · Open Source · Podcasts
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
-- **x-type:** company
+## Changelog on APIs.io
 
-## Tags
+Everything profiled for Changelog is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/changelog/](https://apis.io/providers/changelog/)** — or go straight to one of the APIs or properties below.
 
-- Developer Community, Media, Open Source, Podcasts
+### APIs (4)
+
+- [The Changelog Podcast RSS Feed](https://apis.io/apis/changelog/podcast-rss/) — The Changelog podcast RSS feed provides access to all episodes of The Changelog, a weekly podcast covering software development, open source, and the people…
+- [Changelog Master Feed RSS](https://apis.io/apis/changelog/master-feed-rss/) — The Changelog Master Feed aggregates all Changelog podcast shows into a single RSS feed. This is the one-stop subscription for all developer-focused audio…
+- [Changelog News RSS Feed](https://apis.io/apis/changelog/news-rss/) — The Changelog News RSS feed surfaces the latest developer news curated by the Changelog team. Changelog News is a weekly newsletter and short podcast…
+- [Changelog Open Source Platform (GitHub)](https://apis.io/apis/changelog/github-platform/) — The Changelog platform is an open source Elixir and Phoenix application that powers changelog.com. The source code is publicly available on GitHub and…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Changelog Domain Security](https://apis.io/security/changelog/changelog-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Changelog Plans Pricing](https://apis.io/plans/changelog/changelog-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Changelog Rate Limits](https://apis.io/rate-limits/changelog/changelog-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Changelog Finops](https://apis.io/finops/changelog/changelog-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://changelog.com/)
-- [The Changelog Podcast](https://changelog.com/podcast)
-- [Changelog News](https://changelog.com/news)
-- [Open Source Platform on GitHub](https://github.com/thechangelog/changelog.com)
+- [Privacy policy](https://changelog.com/privacy)
 
-## Podcast RSS Feeds
+## API Evangelist rating
 
-Changelog provides standard RSS feeds for all of their podcast shows, allowing developers and podcast applications to subscribe and consume content programmatically.
+**Kin Score 11.9** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-- [The Changelog RSS Feed](https://changelog.com/podcast/feed) — Weekly deep-dive interviews on open source and software development
-- [Changelog Master Feed](https://changelog.com/master/feed) — Combined feed aggregating all Changelog network shows
-- [Changelog News RSS Feed](https://changelog.com/news/feed) — Weekly curated developer news and short-form audio
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 18.4 |
 
-### Shows
+**Agent readiness 0.6** — human-only
 
-- [The Changelog Podcast](https://changelog.com/podcast) — Software development, open source, the people and companies behind the code
-- [Changelog Master Feed](https://changelog.com/master) — One feed for all Changelog audio content
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-## Changelog News
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
 
-Changelog News is a weekly newsletter and companion podcast covering what is happening in the software development and open source world.
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/changelog/](https://apis.io/providers/changelog/).
 
-- [Changelog News](https://changelog.com/news)
-- [Changelog News RSS Feed](https://changelog.com/news/feed)
+## How this profile is made
 
-## Open Source Platform
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The platform that powers changelog.com is open source, built with Elixir and the Phoenix web framework, backed by PostgreSQL. Developers can explore the full source code, contribute improvements, or use it as a reference for building Phoenix applications.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Changelog: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- [changelog.com on GitHub](https://github.com/thechangelog/changelog.com)
-- [Changelog Media GitHub Organization](https://github.com/thechangelog)
-- [Show Notes Repository](https://github.com/thechangelog/show-notes)
-- [Transcripts Repository](https://github.com/thechangelog/transcripts)
+## Open an issue
 
-## Sponsorship
-
-Changelog offers advertising and sponsorship opportunities for brands wanting to reach the developer community, with over 650,000 monthly listens and a large newsletter subscriber base.
-
-- [Sponsor Changelog](https://changelog.com/sponsor)
-
-## Listen
-
-- [Apple Podcasts — The Changelog](https://podcasts.apple.com/us/podcast/the-changelog-software-development-open-source/id341623264)
-- [Spotify — The Changelog](https://open.spotify.com/show/5bBki72YeKSLUqyD94qsuJ)
-- [Apple Podcasts — Changelog Master Feed](https://podcasts.apple.com/us/podcast/changelog-master-feed/id1164554936)
-- [Spotify — Changelog Master Feed](https://open.spotify.com/show/0S1h5K7jm2YvOcM7y1ZMXY)
-
-## Social
-
-- [X (Twitter)](https://x.com/changelog)
-- [GitHub](https://github.com/thechangelog)
-
-## Legal
-
-- [Privacy Policy](https://changelog.com/privacy)
-
-## Features
-
-Developer Podcasts, Open Source Focus, Weekly Newsletter, Podcast Network, RSS Feeds, Master Feed, Developer Community, Episode Notes, Guest Interviews, Live Events, Open Source Platform, Elixir and Phoenix, Sponsorships
-
-## Use Cases
-
-Developer Education, Open Source Promotion, Podcast Distribution, Newsletter Aggregation, Developer News Consumption, Conference and Event Coverage, Sponsor Content Distribution
-
-## Shows
-
-The Changelog, Changelog News, Go Time, JS Party, Practical AI, Ship It!, Brain Science
-
-## Integrations
-
-Apple Podcasts, Spotify, Overcast, Pocket Casts, RSS, GitHub, YouTube, Fireside
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/changelog/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
